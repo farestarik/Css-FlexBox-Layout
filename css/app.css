@@ -13,7 +13,7 @@
     --main-color: #5333ed;
     --bg-color: #0c022f;
     --text-color: #fff;
-    --hover-color: #9E99F2;
+    --hover-color: #2900ed;
 }
 
 .container {
@@ -44,6 +44,7 @@ header nav {
 header nav .logo {
     width: 100px;
     border-radius: 10px;
+    box-shadow: 2px -2px 7px #131618, -4px 0px 7px #131618;
 }
 
 header nav ul.links {
